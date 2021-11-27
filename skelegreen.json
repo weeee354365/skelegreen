@@ -1,0 +1,37 @@
+{
+    "manifest": {
+        "author": "3tris#0841",
+        "name": "skelegreen",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/862304483928047648\/914177186561392640\/cacfda8b537266a14951672c59f2a4c8.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "statusbar": 1157627904,
+        "mention_highlight": -1877313223,
+        "accent": 2065149062,
+        "background": 0,
+        "background_secondary": 0
+    },
+    "colors": {
+        "link": -14303143,
+        "status_green": -14446553,
+        "primary_700": 1527868758,
+        "primary_dark_100": -15842528,
+        "primary_dark_200": -14303143,
+        "primary_600": 1527868758,
+        "uikit_btn_bg_color_selector_green": -14636978,
+        "uikit_btn_bg_color_selector_red": -15042247
+    },
+    "drawable_tints": {
+        "ic_status_idle_16dp": -2061862599,
+        "ic_status_dnd_16dp": -15507411,
+        "ic_status_online_16dp": -14303143,
+        "ic_status_invisible_16dp": 941998169,
+        "drawable_overlay_channels_selected_dark": 1109770329,
+        "drawable_overlay_guild_mentions_dark": 1107296256
+    },
+    "raws": {}
+}
