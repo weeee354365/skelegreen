@@ -2,7 +2,9 @@
     "manifest": {
         "author": "3tris#0841",
         "name": "skelegreen",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/weeee354365\/skelegreen\/main\/skelegreen.json",
+        "license": "no license"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/862304483928047648\/914177186561392640\/cacfda8b537266a14951672c59f2a4c8.jpg"
